@@ -35,6 +35,8 @@ public class Main_1 {
         char[] a8;
         a8 = new char[] {'W','X','Y','Z'};
         
+        System.out.println("Enter Input(In Capital Letters):");        
+        
         str=s.next();
     
         arr=str.toCharArray();
